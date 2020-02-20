@@ -1,2 +1,2 @@
 # Sample-Movie-Theatre
-Project 1
+Go for Read me file and Project path.
